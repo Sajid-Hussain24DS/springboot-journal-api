@@ -24,7 +24,7 @@ Security: JWT, OAuth2
 Tools: Maven, Lombok, Swagger UI
 
 Installation & Run
-git clone https://github.com/yourusername/project-name.git
+git clone https: https://github.com/Sajid-Hussain24DS/springboot-journal-api
 cd project-name
 # Update application.properties with MongoDB, Redis, and API keys
 mvn clean install
